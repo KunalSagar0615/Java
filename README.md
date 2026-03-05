@@ -15,12 +15,12 @@ The repository covers tasks such as:
 - File I/O operations
 - Simple console applications
 
-> *(You can update this section with real file names as you add more content.)*
+
 
 ## 🛠 Tech Used
 - **Java SE**
 - **JDK**
-- Optional IDEs: Eclipse / IntelliJ / VS Code
+- IDEs: Eclipse / IntelliJ / VS Code
 
 ## 📌 Why This Repository
 This collection serves as:
@@ -28,10 +28,5 @@ This collection serves as:
 - A reference for future development
 - A showcase of programming skills for recruiters or teammates
 
-## 📫 Next Steps
-You can improve this repo by:
-- Adding project descriptions for each folder/file
-- Including example input/output
-- Documenting how to run each program
-- Adding tests
+
 
